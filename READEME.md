@@ -18,3 +18,5 @@ function MinimumValue(arr) {
   }
   return min;
 }
+
+"C:\Users\Student\Desktop\New folder (4)\Minimum-Value.png"
