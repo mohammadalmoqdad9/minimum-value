@@ -1,0 +1,23 @@
+{
+  "name": "challenges-and-data-structures",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms challenges including Linked List implementation with Jest testing.",
+  "main": "Data Structures/LinkedList/app.js",
+  "scripts": {
+    "start": "node Data\\ Structures/LinkedList/app.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "data-structures",
+    "linked-list",
+    "algorithms",
+    "jest",
+    "javascript"
+  ],
+  "author": "Mohammad Almoqdad",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
